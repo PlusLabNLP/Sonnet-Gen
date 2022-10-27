@@ -14,3 +14,5 @@ How to run demo in local host
 3. download model from https://huggingface.co/FigoMe
 4. Run command 
 ```$ streamlit run demo/app.py ```
+
+![Web Demo Screen Grab](https://github.com/PlusLabNLP/Sonnet-Gen/blob/main/demo/web_ss.png)
