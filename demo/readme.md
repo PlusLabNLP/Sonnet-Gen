@@ -13,4 +13,4 @@ How to run demo in local host
 2. pip install transformers, requests, torch, torchvision, torchaudio, streamlit, bs4, pronouncing
 3. download model from https://huggingface.co/FigoMe
 4. Run command 
-```Python streamlit run demo/app.py ```
+```$ streamlit run demo/app.py ```
