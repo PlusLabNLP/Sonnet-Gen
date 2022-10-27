@@ -1,12 +1,12 @@
 To Do 
-- [x]Keyword Generation Module
-- [x]Rhyme Generator 
-- [x]Add datamuse/word hippo
-- [ ]Decoding Step
-- [ ]Petrachran rhyme scheme
-- [ ]Faster Decoding Step 
-- [ ]Make interface attractive
-- [ ]Add requirements.txt
+- [x] Keyword Generation Module
+- [x] Rhyme Generator 
+- [x] Add datamuse/word hippo
+- [ ] Decoding Step
+- [ ] Petrachran rhyme scheme
+- [ ] Faster Decoding Step 
+- [ ] Make interface attractive
+- [ ] Add requirements.txt
 
 How to run demo in local host 
 1. Create new conda/venev environment
